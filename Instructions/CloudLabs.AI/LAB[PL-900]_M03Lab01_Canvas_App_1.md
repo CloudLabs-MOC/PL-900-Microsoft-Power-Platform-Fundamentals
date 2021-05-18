@@ -25,7 +25,7 @@ We will follow the below outline to design the canvas app:
 ## Prerequisites
 
 * Completion of **Module 0 Lab 0 - Validate lab environment**
-* Completion of **Module 2 Lab 1 - Introduction to Common Data Service**
+* Completion of **Module 2 Lab 1 - Introduction to Microsoft Dataverse**
 
 ## Things to consider before you begin
 
@@ -42,7 +42,7 @@ We will follow the below outline to design the canvas app:
 
 ## Task \#1: Create Canvas App
 
-In this task, you will create a canvas app using the phone layout template based on Common Data Service. Using Visits as a selected entity from Common Data Service, the template will generate a Gallery - View - Edit app to manage campus visits.
+In this task, you will create a canvas app using the phone layout template based on Microsoft Dataverse. Using Visits as a selected entity from Microsoft Dataverse, the template will generate a Gallery - View - Edit app to manage campus visits.
 
 1.  Open your Campus Management solution.
 
@@ -57,9 +57,9 @@ In this task, you will create a canvas app using the phone layout template based
 
     -   Click **New app** and select **Canvas**.
 
-    -   Select **Phone layout** under **Common Data Service**.
+    -   Select **Phone layout** under **Microsoft Dataverse**.
 
-3.  Select **Common Data Service** connection then click **Create**.
+3.  Select **Microsoft Dataverse** connection then click **Create**.
 
 4.  Select **Visits** table
 
